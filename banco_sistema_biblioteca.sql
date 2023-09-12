@@ -41,8 +41,6 @@ CREATE TABLE Usuario (
 	cpf CHAR(11) PRIMARY KEY,
 );
 
--- ************** EXECUTAR DAQUI PRA BAIXO *****************
-
 CREATE TABLE Material_Especial (
 	ano_publicacao CHAR(10),
 	estilo CHAR(40),
